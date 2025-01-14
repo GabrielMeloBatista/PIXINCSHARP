@@ -6,8 +6,8 @@ class Program
 {
     static void Main(string[] args)
     {
-        string key = "meuemail@email.com";
-        string receiverName = "Fulano de Tal";
+        string key = "gabrielmelobatista@hotmail.com";
+        string receiverName = "Gabriel";
         decimal amount = 50.00m;
 
         var pixGenerator = new PixGenerator(key, receiverName);
