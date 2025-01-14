@@ -1,7 +1,7 @@
 # PIXINCSHARP
 Just a single script to generate a PIX url
 
-## What's a PIX
+## What's PIX?
 
 PIX is a method to transfer money in brazil.
 
